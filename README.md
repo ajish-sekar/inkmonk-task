@@ -11,5 +11,5 @@
 8. $ export FLASK_APP=run.py
 9. $ flask run
 10. $ cd static
-11 $ npm init
-12 $ npm run watch
+11. $ npm init
+12. $ npm run watch
