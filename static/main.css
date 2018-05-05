@@ -1,0 +1,14 @@
+html{
+	background-color: rgba(25,18,25,1);
+}
+
+body {
+	font-family: 'Rubik';
+	margin:50;
+	padding:0;
+	color: white;
+	height: auto;
+	background-color: rgba(25,18,25,1);
+}
+
+
